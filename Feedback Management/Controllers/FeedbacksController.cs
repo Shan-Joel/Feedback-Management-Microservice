@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+using Feedback_Management.Models;
+using Feedback_Management.Services;
 
 namespace Feedback_Management.Controllers
 {
@@ -8,39 +8,59 @@ namespace Feedback_Management.Controllers
     [ApiController]
     public class FeedbacksController : ControllerBase
     {
-        // GET: api/<FeedbacksController>
+        private readonly IFeedbackService _feedbackService;
+
+        public FeedbacksController(IFeedbackService feedbackService)
+        {
+            _feedbackService = feedbackService ?? throw new ArgumentNullException(nameof(feedbackService));
+        }
+
         [HttpGet]
-        public IEnumerable<string> Get()
+        public IActionResult Get()
         {
-            return new string[] {
-                "value1", 
-                "value2"
-            };
+            return Ok(_feedbackService.GetFeedbacks());
         }
 
-        // GET api/<FeedbacksController>/5
         [HttpGet("{id}")]
-        public string Get(int id)
+        public IActionResult Get(int id)
         {
-            return "value";
+            var feedback = _feedbackService.GetFeedback(id);
+            if (feedback != null)
+            {
+                return Ok(feedback);
+            }
+            return NotFound();
         }
 
-        // POST api/<FeedbacksController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public IActionResult Post([FromBody] Feedback feedback)
         {
+            var newFeedback = _feedbackService.AddFeedback(feedback);
+            return CreatedAtAction(nameof(Get), new { id = newFeedback.Feedback_ID }, newFeedback);
         }
 
-        // PUT api/<FeedbacksController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public IActionResult Put(int id, [FromBody] Feedback feedback)
         {
+            var updatedFeedback = _feedbackService.UpdateFeedback(id, feedback);
+            if (updatedFeedback != null)
+            {
+                return Ok(updatedFeedback);
+            }
+            return NotFound();
         }
 
-        // DELETE api/<FeedbacksController>/5
+
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public IActionResult Delete(int id)
         {
+            var result = _feedbackService.DeleteFeedback(id);
+            if ((bool)result)
+            {
+                return Ok($"Feedback with ID:{id} got deleted successfully.");
+            }
+            return NotFound($"Unable to delete the feedback with ID:{id}.");
         }
+
     }
 }
