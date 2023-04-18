@@ -1,0 +1,7 @@
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\Feedback Management.csproj.AssemblyReference.cache
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\Feedback Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\Feedback Management.AssemblyInfoInputs.cache
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\Feedback Management.AssemblyInfo.cs
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\Feedback Management.csproj.CoreCompileInputs.cache
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\Feedback Management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\Feedback Management.MvcApplicationPartsAssemblyInfo.cache
