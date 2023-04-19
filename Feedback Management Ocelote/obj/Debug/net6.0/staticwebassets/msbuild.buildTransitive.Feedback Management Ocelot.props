@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Feedback Management Ocelot.props" />
+</Project>

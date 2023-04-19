@@ -38,7 +38,6 @@ namespace Feedback_Management.Services
             return null;
         }
 
-
         public bool? DeleteFeedback(int id)
         {
             Feedback selectedFeedback = FeedbackMockDataService.FeedbackList.FirstOrDefault(x => x.Feedback_ID == id);

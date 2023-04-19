@@ -49,13 +49,12 @@ namespace Feedback_Management.Controllers
             }
             return NotFound();
         }
-
-
+       
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
             var result = _feedbackService.DeleteFeedback(id);
-            if ((bool)result)
+            if (result == true)
             {
                 return Ok($"Feedback with ID:{id} got deleted successfully.");
             }

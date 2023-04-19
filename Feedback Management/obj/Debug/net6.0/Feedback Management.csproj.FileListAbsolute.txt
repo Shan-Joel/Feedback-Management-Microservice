@@ -5,3 +5,28 @@ C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug
 C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\Feedback Management.csproj.CoreCompileInputs.cache
 C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\Feedback Management.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\Feedback Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\bin\Debug\net6.0\appsettings.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\bin\Debug\net6.0\Feedback Management.exe
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\bin\Debug\net6.0\Feedback Management.deps.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\bin\Debug\net6.0\Feedback Management.runtimeconfig.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\bin\Debug\net6.0\Feedback Management.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\bin\Debug\net6.0\Feedback Management.pdb
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\staticwebassets\msbuild.Feedback Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\staticwebassets\msbuild.build.Feedback Management.props
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Feedback Management.props
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Feedback Management.props
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\scopedcss\bundle\Feedback Management.styles.css
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\Feedback Management.csproj.CopyComplete
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\Feedback Management.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\refint\Feedback Management.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\Feedback Management.pdb
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\Feedback Management.genruntimeconfig.cache
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management\obj\Debug\net6.0\ref\Feedback Management.dll

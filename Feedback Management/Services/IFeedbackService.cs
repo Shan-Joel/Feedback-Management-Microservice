@@ -1,20 +1,23 @@
-﻿namespace Feedback_Management.Services
+﻿using Feedback_Management.Models;
+using System.Collections.Generic;
+
+namespace Feedback_Management.Services
 {
     public interface IFeedbackService
     {
         // Get all feedbacks
-        List<Models.Feedback> GetFeedbacks();
+        List<Feedback> GetFeedbacks();
 
         // Get feedback by ID
-        Models.Feedback? GetFeedback(int id);
+        Feedback? GetFeedback(int id);
 
         // Add a new feedback
-        Models.Feedback? AddFeedback(Models.Feedback feedback);
+        Feedback? AddFeedback(Feedback feedback);
 
         // Update an existing feedback
-        Models.Feedback? UpdateFeedback(Models.Feedback feedback);
+        Feedback? UpdateFeedback(int id, Feedback feedback);
 
         // Delete a feedback by ID
-        bool? DeleteFeedback(int id); 
+        bool? DeleteFeedback(int id);
     }
 }

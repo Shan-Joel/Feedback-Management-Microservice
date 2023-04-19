@@ -1,0 +1,41 @@
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\appsettings.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\ocelot.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Feedback Management Ocelot.exe
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Feedback Management Ocelot.deps.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Feedback Management Ocelot.runtimeconfig.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Feedback Management Ocelot.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Feedback Management Ocelot.pdb
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Ocelot.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\Feedback Management Ocelot.csproj.AssemblyReference.cache
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\Feedback Management Ocelot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\Feedback Management Ocelot.AssemblyInfoInputs.cache
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\Feedback Management Ocelot.AssemblyInfo.cs
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\Feedback Management Ocelot.csproj.CoreCompileInputs.cache
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\Feedback Management Ocelot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\Feedback Management Ocelot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.Feedback Management Ocelot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.build.Feedback Management Ocelot.props
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Feedback Management Ocelot.props
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Feedback Management Ocelot.props
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\scopedcss\bundle\Feedback Management Ocelot.styles.css
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\Feedback Management Ocelot.csproj.CopyComplete
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\Feedback Management Ocelot.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\refint\Feedback Management Ocelot.dll
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\Feedback Management Ocelot.pdb
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\Feedback Management Ocelot.genruntimeconfig.cache
+C:\Users\ShanJoel\source\repos\Feedback_Management\Feedback Management Ocelote\obj\Debug\net6.0\ref\Feedback Management Ocelot.dll
